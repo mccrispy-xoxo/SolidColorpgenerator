@@ -1,4 +1,4 @@
 # SolidColorpgenerator
 Easier choice of classic and randomly generated solid color background images
 
-![./show.png]()
+![https://github.com/mccrispy-xoxo/SolidColorpgenerator/show.png]()
